@@ -14,7 +14,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="python" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-  ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Cavallinixx&theme=ondedark)
+  ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Cavallinixx_icons=true&theme=ondedark)
   
 
 
